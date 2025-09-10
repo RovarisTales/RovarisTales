@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tales</h1>
-<h3 align="center">Random Developer living in Portugal</h3>
+<h3 align="center">Developer living in Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rovaristales&label=Profile%20views&color=0e75b6&style=flat" alt="rovaristales" /> </p>
 
